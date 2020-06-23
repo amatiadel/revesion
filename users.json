@@ -1,0 +1,20 @@
+[
+    {
+    "name" : "adel" , 
+    "age" : 19 , 
+    "PreviosCountrey" : "Algeria" , 
+    "currentCountrey" : "Russia"
+    },
+    {
+    "name" : "hussian" , 
+    "age" : 19 , 
+    "PreviosCountrey" : "iraq" , 
+    "currentCountrey" : "Russia"
+    },
+    {
+    "name" : "mutalli" , 
+    "age" : 19 , 
+    "PreviosCountrey" : "ozabek" , 
+    "currentCountrey" : "Russia"
+    }
+]
